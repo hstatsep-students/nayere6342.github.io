@@ -9,7 +9,7 @@ body {
 }
 
 p {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 a {
@@ -40,7 +40,7 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background-color: #4ab06f; /* Green */
     color: #ffffff;
 }
 
@@ -54,8 +54,9 @@ a {
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
-    color: #ffffff;
+    background-color: #c9429f; /* Pink */
+    color: #000000;
+    font-weight: bold;
 }
 
 .bg-4 {
